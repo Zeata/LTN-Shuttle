@@ -1,0 +1,9 @@
+{
+    "name": "LTN_Shuttle",
+    "version": "0.0.1",
+    "title": "LTN Shuttle",
+    "author": "Zen",
+    "factorio_version": "1.1",
+    "dependencies": ["base", "LogisticTrainNetwork"],
+    "description": "This mod allows for the use of Logistic Train Network Trains that are idle to be called to your location."
+  }
